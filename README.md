@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-This objective is a create App with estructure only layout.
+The objective is a create App with only estructure layout.
 
 Below, image with explaning the layout.
 
